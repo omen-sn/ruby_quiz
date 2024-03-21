@@ -1,0 +1,198 @@
+[
+  {
+    "question_body": "Which is the correct operator for power(x^y)?",
+    "question_correct_answer": "C",
+    "question_answers": {
+      "A": "X^^y",
+      "B": "X^y",
+      "C": "X**y",
+      "D": "None of the mentioned"
+    }
+  },
+  {
+    "question_body": "Which one of these is floor division?",
+    "question_correct_answer": "A",
+    "question_answers": {
+      "A": "//",
+      "B": "None of the mentioned",
+      "C": "%",
+      "D": "/"
+    }
+  },
+  {
+    "question_body": "What is the order of precedence in python?",
+    "question_correct_answer": "D",
+    "question_answers": {
+      "A": "ii,i,iv,iii,v,vi",
+      "B": "ii,i,iii,iv,v,vi",
+      "C": "i,ii,iii,iv,vi,v",
+      "D": "i,ii,iii,iv,v,vi"
+    }
+  },
+  {
+    "question_body": "What is the answer to this expression, 22 % 3 is?",
+    "question_correct_answer": "A",
+    "question_answers": {
+      "A": "1",
+      "B": "7",
+      "C": "0",
+      "D": "5"
+    }
+  },
+  {
+    "question_body": "Mathematical operations can be performed on a string.",
+    "question_correct_answer": "B",
+    "question_answers": {
+      "A": "True",
+      "B": "False"
+    }
+  },
+  {
+    "question_body": "Operators with the same precedence are evaluated in which manner?",
+    "question_correct_answer": "B",
+    "question_answers": {
+      "A": "None of the mentioned",
+      "B": "Left to Right",
+      "C": "Can’t say",
+      "D": "Right to Left"
+    }
+  },
+  {
+    "question_body": "What is the output of this expression, 3*1**3?",
+    "question_correct_answer": "C",
+    "question_answers": {
+      "A": "27",
+      "B": "1",
+      "C": "3",
+      "D": "9"
+    }
+  },
+  {
+    "question_body": "Which one of the following has the same precedence level?",
+    "question_correct_answer": "A",
+    "question_answers": {
+      "A": "Addition and Subtraction",
+      "B": "Multiplication, Division, Addition and Subtraction",
+      "C": "Addition and Multiplication",
+      "D": "Multiplication, Division and Addition"
+    }
+  },
+  {
+    "question_body": "The expression Int(x) implies that the variable x is converted to integer.",
+    "question_correct_answer": "A",
+    "question_answers": {
+      "A": "True",
+      "B": "False"
+    }
+  },
+  {
+    "question_body": "Which one of the following has the highest precedence in the expression?",
+    "question_correct_answer": "A",
+    "question_answers": {
+      "A": "Parentheses",
+      "B": "Exponential",
+      "C": "Addition",
+      "D": "Multiplication"
+    }
+  },
+  {
+    "question_body": "Is Python case sensitive when dealing with identifiers?",
+    "question_correct_answer": "C",
+    "question_answers": {
+      "A": "no",
+      "B": "machine dependent",
+      "C": "yes",
+      "D": "none of the mentioned"
+    }
+  },
+  {
+    "question_body": "What is the maximum possible length of an identifier?",
+    "question_correct_answer": "D",
+    "question_answers": {
+      "A": "79 characters",
+      "B": "31 characters",
+      "C": "63 characters",
+      "D": "none of the mentioned"
+    }
+  },
+  {
+    "question_body": "Which of the following is invalid?",
+    "question_correct_answer": "A",
+    "question_answers": {
+      "A": "none of the mentioned",
+      "B": "__str__ = 1",
+      "C": "_a = 1",
+      "D": "__a = 1"
+    }
+  },
+  {
+    "question_body": "Which of the following is an invalid variable?",
+    "question_correct_answer": "B",
+    "question_answers": {
+      "A": "foo",
+      "B": "1st_string",
+      "C": "my_string_1",
+      "D": "_"
+    }
+  },
+  {
+    "question_body": "Why are local variable names beginning with an underscore discouraged?",
+    "question_correct_answer": "C",
+    "question_answers": {
+      "A": "they are used to indicate global variables",
+      "B": "they confuse the interpreter",
+      "C": "they are used to indicate a private variables of a class",
+      "D": "they slow down execution"
+    }
+  },
+  {
+    "question_body": "Which of the following is not a keyword?",
+    "question_correct_answer": "C",
+    "question_answers": {
+      "A": "assert",
+      "B": "nonlocal",
+      "C": "eval",
+      "D": "pass"
+    }
+  },
+  {
+    "question_body": "All keywords in Python are in _________",
+    "question_correct_answer": "A",
+    "question_answers": {
+      "A": "lower case",
+      "B": "UPPER CASE",
+      "C": "None of the mentioned",
+      "D": "Capitalized"
+    }
+  },
+  {
+    "question_body": "Which of the following is true for variable names in Python?",
+    "question_correct_answer": "B",
+    "question_answers": {
+      "A": "none of the mentioned",
+      "B": "unlimited length",
+      "C": "underscore and ampersand are the only two special characters allowed",
+      "D": "all private members must have leading and trailing underscores"
+    }
+  },
+  {
+    "question_body": "Which of the following is an invalid statement?",
+    "question_correct_answer": "D",
+    "question_answers": {
+      "A": "a,b,c = 1000, 2000, 3000",
+      "B": "abc = 1,000,000",
+      "C": "a_b_c = 1,000,000",
+      "D": "a b c = 1000 2000 3000"
+    }
+  },
+  {
+    "question_body": "Which of the following cannot be a variable?",
+    "question_correct_answer": "B",
+    "question_answers": {
+      "A": "it",
+      "B": "in",
+      "C": "__init__",
+      "D": "on"
+    }
+  }
+]

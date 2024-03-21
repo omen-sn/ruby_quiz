@@ -1,0 +1,27 @@
+Тест розпочато користувачем oleh о 2024-03-20 19:49:52
+Question: All keywords in Python are in _________, Your answer: B, Correct answer: B
+Question: Mathematical operations can be performed on a string., Your answer: B, Correct answer: A
+Question: Which one of the following has the highest precedence in the expression?, Your answer: B, Correct answer: B
+Question: Which of the following cannot be a variable?, Your answer: B, Correct answer: B
+Question: What is the order of precedence in python?, Your answer: B, Correct answer: D
+Question: Which of the following is invalid?, Your answer: B, Correct answer: A
+Question: What is the maximum possible length of an identifier?, Your answer: B, Correct answer: D
+Question: Which of the following is true for variable names in Python?, Your answer: B, Correct answer: C
+Question: What is the output of this expression, 3*1**3?, Your answer: B, Correct answer: B
+Question: Which of the following is not a keyword?, Your answer: B, Correct answer: C
+Question: Which one of the following has the same precedence level?, Your answer: B, Correct answer: A
+Question: Which of the following is an invalid statement?, Your answer: B, Correct answer: D
+Question: What is the answer to this expression, 22 % 3 is?, Your answer: B, Correct answer: D
+Question: Which one of these is floor division?, Your answer: B, Correct answer: A
+Question: Operators with the same precedence are evaluated in which manner?, Your answer: B, Correct answer: D
+Question: The expression Int(x) implies that the variable x is converted to integer., Your answer: B, Correct answer: B
+Question: Is Python case sensitive when dealing with identifiers?, Your answer: B, Correct answer: B
+Question: Why are local variable names beginning with an underscore discouraged?, Your answer: B, Correct answer: B
+Question: Which of the following is an invalid variable?, Your answer: B, Correct answer: A
+Question: Which is the correct operator for power(x^y)?, Your answer: B, Correct answer: B
+Підсумок тесту:
+Коректні відповіді: 8
+Некоректні відповіді: 12
+Загальна кількість запитань: 20
+Процент коректних відповідей: 40.0%
+Тест завершено о 2024-03-20 19:50:08
